@@ -26,12 +26,11 @@
   <sub>
     <strong># DevOps</strong>
     # CI/CD
-    # GitHub Actions
-    # Automated testing
-    # Release management
-    # Repository management
-    # Package development & maintenance
+    # GitHub Action
+    # Release
+    # Repository
     # Monorepo
+    # Dependency
     # Composer
     # NPM / PNPM
   </sub>

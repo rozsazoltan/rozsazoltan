@@ -1,6 +1,5 @@
 <p align="center">
-  <!--<img style="width: 100%;" src="https://user-images.githubusercontent.com/67325669/163438572-2fb5be12-fb1e-406a-b7fb-925938e0c26b.png" alt="Background">-->
-  <img style="width: 80%;" src="https://user-images.githubusercontent.com/67325669/202428984-e2ee50b9-68b8-46d3-b9cf-0217e2dacced.png" alt="Background">
+  <a href="https://rozsazoltan.vercel.app">rozsazoltan</a>
 </p>
 
 <p align="center">
@@ -15,19 +14,46 @@
   <br><br>
   <sub>
     <strong># Backend</strong>
-    <strong># Frontend</strong>
+    # PHP
+    # Laravel
+    # Pest
+    # Rector
+    # Rust
+    # Tauri
+    # SQL
   </sub>
   <br>
   <sub>
-    <strong># API</strong>
-    <strong># Security</strong>
-    <strong># Database</strong>
-    <strong># SEO</strong>
+    <strong># DevOps</strong>
+    # CI/CD
+    # GitHub Actions
+    # Automated testing
+    # Release management
+    # Repository management
+    # Package development & maintenance
+    # Monorepo
+    # Composer
+    # NPM / PNPM
+  </sub>
+  <br>
+  <sub>
+    <strong># Frontend</strong>
+    # JavaScript
+    # TypeScript
+    # Vite.js
+    # Vue.js
+    # Vitest
+    # Oxc
+    # LightningCSS
+    # TailwindCSS
   </sub>
 </p>
 
 <br>
 
 <p align="center">
-  <a href="https://stackoverflow.com/users/15167500/rozsazoltan"><img alt="StackOverflow Rep" src="https://img.shields.io/stackexchange/stackoverflow/r/15167500?color=%23f48024&label=stackoverflow&logo=stackoverflow"></a>
+  <a href="https://stackoverflow.com/users/15167500/rozsazoltan">
+    <img alt="StackOverflow Rep"
+      src="https://img.shields.io/stackexchange/stackoverflow/r/15167500?color=%23f48024&label=stackoverflow&logo=stackoverflow">
+  </a>
 </p>
